@@ -17,5 +17,4 @@ React,
 JavaScript,
 SCSS
 
-Créditos:
 Este aplicativo foi criado como parte de um projeto pessoal para aprender React, JavaScript e SCSS.
